@@ -1,0 +1,5 @@
+<et failed:s3://test-bucket-shahanaz-12345Anerroroccurred(AccessDenied)whencalling the CreateBucketoperation:User:
+十
+lam::218708246774:user/test-readonly-user 1s not authorizedtoperform:s3:CreateBucket onresource:"arn:aws:s3:::test-bucket-
+-12345" because no identity-based policy allows the s3:CreateBucket action
+Full CLI output is available at [`logs/cli-test-results.txt`](../logs/cli-test-results.png).
