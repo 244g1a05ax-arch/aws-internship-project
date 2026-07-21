@@ -43,7 +43,7 @@ Created a new security group (`launch-wizard-1`) with two inbound rules:
 ### 3. Launch and Verify Instance
 Created a new RSA key pair (`task3-key.pem`) during launch, then clicked Launch Instance.
 
-(assets/screenshots/03-launch-success.png)
+![LAUNCH SUCCESS](assets/screenshots/03-launch-success.png)
 
 Waited for the instance to reach **Running** state with status checks passed, then noted the Public IPv4 address.
 
